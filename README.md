@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sachinxmpl?tab=repositories](https://github.com/Sachinxmpl?tab=repositories)
 
-- 💬 Ask me about **Web development , Data Structures And Algorithsm**
+- 💬 Ask me about **Web development , Data Structure And Algorithms**
 
 - 📫 How to reach me **sachinxmpl6@gmail.com**
 
