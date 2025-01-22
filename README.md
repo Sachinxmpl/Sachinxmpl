@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **sachinxmpl6@gmail.com**
 
-- ⚡ Fun fact **You apply Binary Search and suddenly, you’re the person who can find a needle in a haystack... but only if you’re really, really sure the needle is in the exact middle of the haystack! 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
