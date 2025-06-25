@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sachin K.C.</h1>
 <h3 align="center">🚀 Software Developer | 🤖 Passionate Machine Learning Engineer | 💡 Lifelong Learner</h3>
 
-<img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
 ---
 
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently building: [**Swifty**](https://github.com/Sachinxmpl/swifty.git)  
-- 🌱 Currently deep diving into: **Machine Learning Algorithms**  
+- 🌱 Currently learning **Machine Learning Algorithms and Cloud Technologies**  
 - 👯 Open to collaborating on: **AI/ML projects, Full-Stack Web Apps**  
 - 💬 Ask me about: **Web Development, DSA, and AI**  
 - 📫 Reach me at: **sachinxmpl6@gmail.com**
@@ -33,15 +32,19 @@
 ### 🛠️ Tech Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,kubernetes,java,cpp,python,aws,git,html,css,tailwind,javascript,vue,opencv,pytorch,tensorflow,scikit-learn,seaborn,pandas,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,postgres,redis,docker,kubernetes,java,cpp,python,aws,javascript,pytorch,tensorflow,scikit-learn," />
 </p>
 
 ---
 
 ### 📈 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachinxmpl&show_icons=true&theme=tokyonight" alt="Sachin's GitHub stats" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachinxmpl&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sachinxmpl" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachinxmpl&show_icons=true&locale=en&theme=tokyonight" alt="Sachinxmpl" />
 </p>
 
 ---
