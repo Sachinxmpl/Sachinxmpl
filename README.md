@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin K.C.</h1>
-<h3 align="center">🚀 Software Developer | 🤖 Passionate Machine Learning Engineer | 💡 Lifelong Learner</h3>
+<h3 align="center"> Software Developer | Passionate Machine Learning Engineer </h3>
 
 
----
 
 ### 🧑‍💻 About Me
 
@@ -20,14 +19,8 @@
   <a href="https://linkedin.com/in/sachin-k-68b5422b1" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/sachinxmpl" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="32" height="32"/>
-  </a>
 </p>
 
-
----
 
 ### 🛠️ Tech Stack:
 
@@ -35,4 +28,7 @@
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,postgres,redis,docker,kubernetes,java,cpp,python,aws,javascript,pytorch,tensorflow,scikit-learn," />
 </p>
 
----
+
+
+
+[![An image of @sachinxmpl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinxmpl)](https://holopin.io/@sachinxmpl)
